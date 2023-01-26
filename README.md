@@ -6,7 +6,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science  at ENSA Tetouan.\
 🌱 &nbsp;I'm on track for learning more about Spring boot, Angular, and Microservices.\
-✍️ &nbsp;In my free time, I like watching movies and walking as hobbies.\
+✍️ &nbsp;In my free time, I enjoy being physically active, and spend a lot of time playing sports and team games.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at **youssef.abidi@etu.uae.ac.ma** or **youssefabidi929@gmail.com** I'll try to respond as soon as I can.
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
