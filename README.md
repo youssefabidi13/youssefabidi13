@@ -31,7 +31,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-000000?style=flat&logo=eclipse-ide&logoColor=FFFFFF)
-![Laravel](https://img.shields.io/badge/-laravel-000000?style=flat&logo=laravel&logoColor=red)
+![Laravel](https://img.shields.io/badge/-laravel-000000?style=flat&logo=laravel&logoColor=red)  
 <!-- ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign) -->
 <!-- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; -->
