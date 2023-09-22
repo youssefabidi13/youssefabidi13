@@ -42,7 +42,6 @@
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-![svg](https://raw.githubusercontent.com/youssefabidi13/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
 <p align="left">
 <a href="https://github.com/youssefabidi13">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=youssefabidi13&layout=compact&langs_count=8&theme=algolia"/>
