@@ -1,6 +1,6 @@
 ![Youssef ABIDI Banner](https://cdn.discordapp.com/attachments/1056944593171660842/1068262027572822096/ABIDI_Youssef_1.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm ABIDI Youssef</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm ABIDI Youssef : ![ProfileViews](https://komarev.com/ghpvc/?username=youssefabidi13&label=Profile%20views&color=0e75b6&style=flat)</h2>
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
