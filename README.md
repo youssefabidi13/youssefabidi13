@@ -60,7 +60,7 @@
 <p align="center">
 <!-- <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://www.linkedin.com/in/abidi-youssef-98a9b2217/"><img src="https://img.shields.io/badge/-Youssef%20ABIDI-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:youssef.abidi@etu.uae.ac.ma"><img src="https://img.shields.io/badge/-youssef.abidi@etu.uae.ac.ma-E4405F?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:youssefabidi929@gmail.com"><img src="https://img.shields.io/badge/-youssefabidi929@gmail.com-E4405F?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/youssef___abidi/"><img src="https://img.shields.io/badge/-@ABIDI%20Youssef-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100088518896125"><img src="https://img.shields.io/badge/-@ABIDI%20Youssef-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>  
