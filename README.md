@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science  at ENSA Tetouan.\
+🎓 &nbsp;Graduated from Computer Science at ENSA Tetouan.\
 🌱 &nbsp;I'm on track for learning more about Spring boot, Angular, and Microservices.\
 ✍️ &nbsp;In my free time, I enjoy being physically active, and spend a lot of time playing sports and team games.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
