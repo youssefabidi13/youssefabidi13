@@ -266,12 +266,12 @@ mission:    turn complex business requirements into reliable, maintainable softw
 <div align="center">
 
 <!-- rendered daily by .github/workflows/neon-telemetry.yml -->
-<img width="49%" src="stats/stats.svg" alt="GitHub stats" />
-<img width="49%" src="stats/languages.svg" alt="Top languages" />
+<img width="49%" src="stats.svg" alt="GitHub stats" />
+<img width="49%" src="languages.svg" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=youssefabidi13&background=05050A&border=B026FF&stroke=B026FF&ring=FF007F&fire=00FF66&currStreakNum=00F0FF&currStreakLabel=00F0FF&sideNums=FF007F&sideLabels=FF007F&dates=6B6B8A&border_radius=10" width="100%" alt="Contribution streak" />
 
-<img width="100%" src="stats/activity.svg" alt="Weekly contribution activity" />
+<img width="100%" src="activity.svg" alt="Weekly contribution activity" />
 
 </div>
 
