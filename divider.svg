@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="24" viewBox="0 0 1000 24" role="presentation">
+  <defs>
+    <linearGradient id="l" x1="0" x2="1">
+      <stop offset="0" stop-color="#00F0FF" stop-opacity="0"/>
+      <stop offset=".2" stop-color="#00F0FF"/>
+      <stop offset=".5" stop-color="#B026FF"/>
+      <stop offset=".8" stop-color="#FF007F"/>
+      <stop offset="1" stop-color="#FF007F" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="p">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset=".35" stop-color="#00FF66"/>
+      <stop offset="1" stop-color="#00FF66" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="g" x="-5%" y="-300%" width="110%" height="700%"><feGaussianBlur stdDeviation="2.5"/></filter>
+  </defs>
+  <style>
+    .pk{animation:mv 5s linear infinite}
+    @keyframes mv{from{transform:translateX(-80px)}to{transform:translateX(1080px)}}
+    @media (prefers-reduced-motion:reduce){.pk{animation:none;opacity:0}}
+  </style>
+  <rect x="0" y="11" width="1000" height="2" fill="url(#l)" filter="url(#g)"/>
+  <rect x="0" y="11.5" width="1000" height="1" fill="url(#l)"/>
+  <g fill="#00F0FF" fill-opacity=".5">
+    <rect x="200" y="7" width="1" height="10"/><rect x="500" y="5" width="1" height="14"/><rect x="800" y="7" width="1" height="10"/>
+  </g>
+  <ellipse class="pk" cx="0" cy="12" rx="46" ry="5" fill="url(#p)"/>
+</svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="470" viewBox="0 0 1000 470" role="img" aria-label="System core terminal: Youssef ABIDI, Shopify Consultant at VISEO, full-stack engineer, ENSA Tetouan, Oracle Certified Java SE 17 and 21">
+  <defs>
+    <linearGradient id="edge" x1="0" x2="1">
+      <stop offset="0" stop-color="#00F0FF"/>
+      <stop offset=".5" stop-color="#B026FF"/>
+      <stop offset="1" stop-color="#FF007F"/>
+    </linearGradient>
+    <filter id="glow" x="-5%" y="-10%" width="110%" height="120%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="scan" width="3" height="3" patternUnits="userSpaceOnUse">
+      <rect width="3" height="1" fill="#000" fill-opacity=".3"/>
+    </pattern>
+  </defs>
+  <style>
+    text{font-family:'JetBrains Mono','Fira Code',Consolas,'Liberation Mono','Courier New',monospace;font-size:16px}
+    .g{fill:#00FF66}.c{fill:#00F0FF}.m{fill:#FF007F}.v{fill:#B026FF}.w{fill:#E6F7FF}.d{fill:#6B6B8A}
+    .l{opacity:0;animation:in .35s ease-out forwards}
+    @keyframes in{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:none}}
+    .cur{opacity:0;animation:in .1s 5.4s forwards,blink 1s 5.5s steps(1) infinite}
+    @keyframes blink{0%{opacity:1}50%{opacity:0}}
+    .dot{animation:pulse 1.6s ease-in-out infinite}
+    @keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+    @media (prefers-reduced-motion:reduce){.l,.cur{animation:none;opacity:1}.dot{animation:none}}
+  </style>
+
+  <rect x="8" y="8" width="984" height="454" rx="14" fill="#05050A"/>
+  <rect x="8" y="8" width="984" height="46" rx="14" fill="#0C0B1D"/>
+  <rect x="8" y="40" width="984" height="14" fill="#0C0B1D"/>
+  <line x1="8" y1="54" x2="992" y2="54" stroke="#00F0FF" stroke-opacity=".25"/>
+  <circle cx="36" cy="31" r="6" fill="#FF007F"/>
+  <circle cx="58" cy="31" r="6" fill="#B026FF"/>
+  <circle cx="80" cy="31" r="6" fill="#00FF66"/>
+  <text x="500" y="36" text-anchor="middle" class="d" style="font-size:13px">youssef@system-core: ~ — zsh</text>
+
+  <text class="l" style="animation-delay:.3s" x="36" y="96"><tspan class="g">$ </tspan><tspan class="w">whoami</tspan></text>
+  <text class="l" style="animation-delay:.8s" x="36" y="124"><tspan class="c">  Youssef ABIDI</tspan><tspan class="d">  // Shopify Consultant @ VISEO</tspan></text>
+
+  <text class="l" style="animation-delay:1.4s" x="36" y="168"><tspan class="g">$ </tspan><tspan class="w">cat identity.yml</tspan></text>
+  <text class="l" style="animation-delay:1.9s" y="198"><tspan x="60" class="m">role:</tspan><tspan x="170" class="w">Shopify platform engineer + full-stack software engineer</tspan></text>
+  <text class="l" style="animation-delay:2.2s" y="226"><tspan x="60" class="m">core:</tspan><tspan x="170" class="w">Java, Spring Boot, Shopify Functions, Admin UI extensions</tspan></text>
+  <text class="l" style="animation-delay:2.5s" y="254"><tspan x="60" class="m">front:</tspan><tspan x="170" class="w">React, Angular, TypeScript, Liquid</tspan></text>
+  <text class="l" style="animation-delay:2.8s" y="282"><tspan x="60" class="m">school:</tspan><tspan x="170" class="w">ENSA Tetouan, Computer Engineering (Bac+5)</tspan></text>
+  <text class="l" style="animation-delay:3.1s" y="310"><tspan x="60" class="m">certs:</tspan><tspan x="170" class="w">Oracle Certified Java SE 17, Java SE 21</tspan></text>
+  <text class="l" style="animation-delay:3.4s" y="338"><tspan x="60" class="m">node:</tspan><tspan x="170" class="w">Morocco [MA], open to remote collaboration</tspan></text>
+
+  <text class="l" style="animation-delay:4.1s" x="36" y="382"><tspan class="g">$ </tspan><tspan class="w">systemctl status mission.service</tspan></text>
+  <g class="l" style="animation-delay:4.6s"><circle class="dot" cx="66" cy="405" r="5" fill="#00FF66"/></g>
+  <text class="l" style="animation-delay:4.6s" y="410"><tspan x="80" class="g">active (running)</tspan><tspan class="d">  turning complex business rules into reliable software</tspan></text>
+
+  <text class="l" style="animation-delay:5.2s" x="36" y="444"><tspan class="g">$ </tspan></text>
+  <rect class="cur" x="56" y="430" width="10" height="18" fill="#00F0FF"/>
+
+  <rect x="8" y="8" width="984" height="454" rx="14" fill="url(#scan)"/>
+  <rect x="8" y="8" width="984" height="454" rx="14" fill="none" stroke="url(#edge)" stroke-width="2" filter="url(#glow)"/>
+</svg>
