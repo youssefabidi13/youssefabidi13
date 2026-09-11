@@ -158,7 +158,7 @@ mission:    turn complex business requirements into reliable, maintainable softw
 <tr>
 <td width="50%" valign="top">
 
-<code>▣ MSN-001</code> &nbsp;🟢 <code>active</code> &nbsp;<code></code>
+<code>▣ MSN-001</code> &nbsp;🟢 <code>active</code> &nbsp;
 
 ### Merchant ops suite
 
@@ -169,7 +169,7 @@ mission:    turn complex business requirements into reliable, maintainable softw
 </td>
 <td width="50%" valign="top">
 
-<code>▣ MSN-002</code> &nbsp;🟢 <code>active</code> &nbsp;<code></code>
+<code>▣ MSN-002</code> &nbsp;🟢 <code>active</code> &nbsp;
 
 ### Gift-with-purchase engine
 
@@ -182,7 +182,7 @@ mission:    turn complex business requirements into reliable, maintainable softw
 <tr>
 <td width="50%" valign="top">
 
-<code>▣ MSN-003</code> &nbsp;🟢 <code>active</code> &nbsp;<code></code>
+<code>▣ MSN-003</code> &nbsp;🟢 <code>active</code> &nbsp;
 
 ### Multi-store metafield sync
 
@@ -193,7 +193,7 @@ mission:    turn complex business requirements into reliable, maintainable softw
 </td>
 <td width="50%" valign="top">
 
-<code>▣ MSN-004</code> &nbsp;🟣 <code>delivered</code> &nbsp;<code></code>
+<code>▣ MSN-004</code> &nbsp;🟣 <code>delivered</code> &nbsp;
 
 ### Shopify ↔ CRM customer bridge
 
