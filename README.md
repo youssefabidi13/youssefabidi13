@@ -265,12 +265,13 @@ mission:    turn complex business requirements into reliable, maintainable softw
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=youssefabidi13&show_icons=true&include_all_commits=true&count_private=true&bg_color=05050A&title_color=00F0FF&icon_color=FF007F&text_color=D6FBFF&ring_color=00FF66&border_color=00F0FF&border_radius=10&custom_title=%2F%2F%20operator%20stats" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefabidi13&layout=compact&langs_count=8&bg_color=05050A&title_color=FF007F&text_color=D6FBFF&border_color=FF007F&border_radius=10&custom_title=%2F%2F%20language%20matrix" alt="Top languages" />
+<!-- rendered daily by .github/workflows/neon-telemetry.yml -->
+<img width="49%" src="stats/stats.svg" alt="GitHub stats" />
+<img width="49%" src="stats/languages.svg" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=youssefabidi13&background=05050A&border=B026FF&stroke=B026FF&ring=FF007F&fire=00FF66&currStreakNum=00F0FF&currStreakLabel=00F0FF&sideNums=FF007F&sideLabels=FF007F&dates=6B6B8A&border_radius=10" alt="Contribution streak" />
+<img src="https://streak-stats.demolab.com?user=youssefabidi13&background=05050A&border=B026FF&stroke=B026FF&ring=FF007F&fire=00FF66&currStreakNum=00F0FF&currStreakLabel=00F0FF&sideNums=FF007F&sideLabels=FF007F&dates=6B6B8A&border_radius=10" width="100%" alt="Contribution streak" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=youssefabidi13&bg_color=05050A&color=00F0FF&title_color=00F0FF&line=FF007F&point=00FF66&area=true&area_color=FF007F&hide_border=true&radius=10&custom_title=%2F%2F%20contribution%20telemetry" alt="Contribution graph" />
+<img width="100%" src="stats/activity.svg" alt="Weekly contribution activity" />
 
 </div>
 
