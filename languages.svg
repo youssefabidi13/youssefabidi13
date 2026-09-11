@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="230" viewBox="0 0 480 230" role="img" aria-label="// language matrix">
+<defs>
+  <linearGradient id="neon" x1="0" x2="1"><stop offset="0" stop-color="#00F0FF"/><stop offset=".55" stop-color="#B026FF"/><stop offset="1" stop-color="#FF007F"/></linearGradient>
+  <linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FF007F" stop-opacity=".35"/><stop offset="1" stop-color="#FF007F" stop-opacity="0"/></linearGradient>
+  <filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#00F0FF" stroke-opacity=".05"/></pattern>
+</defs>
+<style>
+  text{font-family:'JetBrains Mono','Fira Code',Consolas,'Liberation Mono','Courier New',monospace}
+  .in{opacity:0;animation:in .5s ease-out forwards}
+  @keyframes in{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+  .draw{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 2s cubic-bezier(.3,.7,.2,1) .2s forwards}
+  @keyframes draw{to{stroke-dashoffset:0}}
+  @media (prefers-reduced-motion:reduce){.in{animation:none;opacity:1}.draw{animation:none;stroke-dashoffset:0}}
+</style>
+<rect x="1" y="1" width="478" height="228" rx="10" fill="#05050A"/>
+<rect x="1" y="1" width="478" height="228" rx="10" fill="url(#grid)"/>
+<rect x="1" y="1" width="478" height="228" rx="10" fill="none" stroke="#FF007F" stroke-opacity=".75" stroke-width="1.5"/>
+<text x="22" y="34" font-size="14" fill="#FF007F">// language matrix</text>
+<text x="458" y="34" font-size="12" fill="#6B6B8A" text-anchor="end">by repositories</text>
+<line x1="22" y1="46" x2="458" y2="46" stroke="#FF007F" stroke-opacity=".2"/>
+<g class="in"><rect x="22" y="64" width="436" height="10" fill="#1A1A2E"/><rect x="22.00" y="64" width="140.54" height="10" fill="#00F0FF"/><rect x="164.54" y="64" width="98.62" height="10" fill="#FF007F"/><rect x="265.15" y="64" width="39.92" height="10" fill="#00FF66"/><rect x="307.08" y="64" width="39.92" height="10" fill="#B026FF"/><rect x="349.00" y="64" width="31.54" height="10" fill="#FFD400"/><rect x="382.54" y="64" width="31.54" height="10" fill="#FF6A00"/><rect x="416.08" y="64" width="39.92" height="10" fill="#4D7CFF"/></g>
+<g class="in" style="animation-delay:0.1s">
+  <rect x="24" y="101" width="8" height="8" fill="#00F0FF" filter="url(#glow)"/>
+  <text x="42" y="110" font-size="13" fill="#D6FBFF">Java</text>
+  <text x="224" y="110" font-size="12" fill="#6B6B8A" text-anchor="end">32.7%</text>
+</g>
+<g class="in" style="animation-delay:0.17s">
+  <rect x="248" y="101" width="8" height="8" fill="#FF007F" filter="url(#glow)"/>
+  <text x="266" y="110" font-size="13" fill="#D6FBFF">TypeScript</text>
+  <text x="448" y="110" font-size="12" fill="#6B6B8A" text-anchor="end">23.1%</text>
+</g>
+<g class="in" style="animation-delay:0.24000000000000002s">
+  <rect x="24" y="129" width="8" height="8" fill="#00FF66" filter="url(#glow)"/>
+  <text x="42" y="138" font-size="13" fill="#D6FBFF">HTML</text>
+  <text x="224" y="138" font-size="12" fill="#6B6B8A" text-anchor="end">9.6%</text>
+</g>
+<g class="in" style="animation-delay:0.31000000000000005s">
+  <rect x="248" y="129" width="8" height="8" fill="#B026FF" filter="url(#glow)"/>
+  <text x="266" y="138" font-size="13" fill="#D6FBFF">CSS</text>
+  <text x="448" y="138" font-size="12" fill="#6B6B8A" text-anchor="end">9.6%</text>
+</g>
+<g class="in" style="animation-delay:0.38s">
+  <rect x="24" y="157" width="8" height="8" fill="#FFD400" filter="url(#glow)"/>
+  <text x="42" y="166" font-size="13" fill="#D6FBFF">PHP</text>
+  <text x="224" y="166" font-size="12" fill="#6B6B8A" text-anchor="end">7.7%</text>
+</g>
+<g class="in" style="animation-delay:0.45000000000000007s">
+  <rect x="248" y="157" width="8" height="8" fill="#FF6A00" filter="url(#glow)"/>
+  <text x="266" y="166" font-size="13" fill="#D6FBFF">JavaScript</text>
+  <text x="448" y="166" font-size="12" fill="#6B6B8A" text-anchor="end">7.7%</text>
+</g>
+<g class="in" style="animation-delay:0.52s">
+  <rect x="24" y="185" width="8" height="8" fill="#4D7CFF" filter="url(#glow)"/>
+  <text x="42" y="194" font-size="13" fill="#D6FBFF">other</text>
+  <text x="224" y="194" font-size="12" fill="#6B6B8A" text-anchor="end">9.6%</text>
+</g>
+</svg>

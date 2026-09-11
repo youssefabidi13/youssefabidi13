@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-label="// contribution telemetry · weekly, last 12 months">
+<defs>
+  <linearGradient id="neon" x1="0" x2="1"><stop offset="0" stop-color="#00F0FF"/><stop offset=".55" stop-color="#B026FF"/><stop offset="1" stop-color="#FF007F"/></linearGradient>
+  <linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FF007F" stop-opacity=".35"/><stop offset="1" stop-color="#FF007F" stop-opacity="0"/></linearGradient>
+  <filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#00F0FF" stroke-opacity=".05"/></pattern>
+</defs>
+<style>
+  text{font-family:'JetBrains Mono','Fira Code',Consolas,'Liberation Mono','Courier New',monospace}
+  .in{opacity:0;animation:in .5s ease-out forwards}
+  @keyframes in{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+  .draw{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 2s cubic-bezier(.3,.7,.2,1) .2s forwards}
+  @keyframes draw{to{stroke-dashoffset:0}}
+  @media (prefers-reduced-motion:reduce){.in{animation:none;opacity:1}.draw{animation:none;stroke-dashoffset:0}}
+</style>
+<rect x="1" y="1" width="998" height="248" rx="10" fill="#05050A"/>
+<rect x="1" y="1" width="998" height="248" rx="10" fill="url(#grid)"/>
+<rect x="1" y="1" width="998" height="248" rx="10" fill="none" stroke="#B026FF" stroke-opacity=".75" stroke-width="1.5"/>
+<text x="22" y="34" font-size="14" fill="#B026FF">// contribution telemetry · weekly, last 12 months</text>
+<text x="978" y="34" font-size="12" fill="#6B6B8A" text-anchor="end">5 contributions</text>
+<line x1="22" y1="46" x2="978" y2="46" stroke="#B026FF" stroke-opacity=".2"/>
+<line x1="56" y1="204" x2="970" y2="204" stroke="#00F0FF" stroke-opacity="0.25"/>
+<text x="46" y="208" font-size="11" fill="#6B6B8A" text-anchor="end">0</text>
+<line x1="56" y1="140" x2="970" y2="140" stroke="#00F0FF" stroke-opacity="0.08"/>
+<text x="46" y="144" font-size="11" fill="#6B6B8A" text-anchor="end">2</text>
+<line x1="56" y1="76" x2="970" y2="76" stroke="#00F0FF" stroke-opacity="0.08"/>
+<text x="46" y="80" font-size="11" fill="#6B6B8A" text-anchor="end">4</text>
+<path d="M56.0 204.0 L73.6 204.0 L91.2 204.0 L108.7 204.0 L126.3 204.0 L143.9 204.0 L161.5 204.0 L179.0 172.0 L196.6 204.0 L214.2 204.0 L231.8 204.0 L249.3 204.0 L266.9 204.0 L284.5 204.0 L302.1 204.0 L319.7 204.0 L337.2 204.0 L354.8 204.0 L372.4 204.0 L390.0 204.0 L407.5 204.0 L425.1 204.0 L442.7 204.0 L460.3 204.0 L477.8 204.0 L495.4 204.0 L513.0 204.0 L530.6 204.0 L548.2 204.0 L565.7 204.0 L583.3 204.0 L600.9 204.0 L618.5 204.0 L636.0 204.0 L653.6 204.0 L671.2 204.0 L688.8 204.0 L706.3 204.0 L723.9 204.0 L741.5 204.0 L759.1 204.0 L776.7 204.0 L794.2 204.0 L811.8 204.0 L829.4 204.0 L847.0 204.0 L864.5 204.0 L882.1 204.0 L899.7 204.0 L917.3 204.0 L934.8 204.0 L952.4 204.0 L970.0 76.0 L970 204 L56 204 Z" fill="url(#area)" class="in" style="animation-delay:1s"/>
+<path d="M56.0 204.0 L73.6 204.0 L91.2 204.0 L108.7 204.0 L126.3 204.0 L143.9 204.0 L161.5 204.0 L179.0 172.0 L196.6 204.0 L214.2 204.0 L231.8 204.0 L249.3 204.0 L266.9 204.0 L284.5 204.0 L302.1 204.0 L319.7 204.0 L337.2 204.0 L354.8 204.0 L372.4 204.0 L390.0 204.0 L407.5 204.0 L425.1 204.0 L442.7 204.0 L460.3 204.0 L477.8 204.0 L495.4 204.0 L513.0 204.0 L530.6 204.0 L548.2 204.0 L565.7 204.0 L583.3 204.0 L600.9 204.0 L618.5 204.0 L636.0 204.0 L653.6 204.0 L671.2 204.0 L688.8 204.0 L706.3 204.0 L723.9 204.0 L741.5 204.0 L759.1 204.0 L776.7 204.0 L794.2 204.0 L811.8 204.0 L829.4 204.0 L847.0 204.0 L864.5 204.0 L882.1 204.0 L899.7 204.0 L917.3 204.0 L934.8 204.0 L952.4 204.0 L970.0 76.0" fill="none" stroke="#FF007F" stroke-width="2" stroke-linejoin="round" pathLength="1" class="draw" filter="url(#glow)"/>
+<g class="in" style="animation-delay:1.6s"><circle cx="179.0" cy="172.0" r="3" fill="#00FF66" filter="url(#glow)"/><circle cx="970.0" cy="76.0" r="3" fill="#00FF66" filter="url(#glow)"/></g>
+<text x="126.3076923076923" y="226" font-size="11" fill="#6B6B8A" text-anchor="middle">oct</text><text x="196.6153846153846" y="226" font-size="11" fill="#6B6B8A" text-anchor="middle">nov</text><text x="284.5" y="226" font-size="11" fill="#6B6B8A" text-anchor="middle">dec</text><text x="354.8076923076923" y="226" font-size="11" fill="#6B6B8A" text-anchor="middle">jan</text><text x="425.11538461538464" y="226" font-size="11" fill="#6B6B8A" text-anchor="middle">feb</text><text x="495.42307692307696" y="226" font-size="11" fill="#6B6B8A" text-anchor="middle">mar</text><text x="583.3076923076923" y="226" font-size="11" fill="#6B6B8A" text-anchor="middle">apr</text><text x="653.6153846153846" y="226" font-size="11" fill="#6B6B8A" text-anchor="middle">may</text><text x="741.5" y="226" font-size="11" fill="#6B6B8A" text-anchor="middle">jun</text><text x="811.8076923076923" y="226" font-size="11" fill="#6B6B8A" text-anchor="middle">jul</text><text x="882.1153846153846" y="226" font-size="11" fill="#6B6B8A" text-anchor="middle">aug</text><text x="970" y="226" font-size="11" fill="#6B6B8A" text-anchor="middle">sep</text>
+</svg>
